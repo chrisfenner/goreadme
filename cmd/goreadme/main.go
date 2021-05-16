@@ -14,7 +14,7 @@ import (
 	"github.com/posener/goaction"
 	"github.com/posener/goaction/actionutil"
 	"github.com/posener/goaction/log"
-	"github.com/posener/goreadme"
+	"github.com/chrisfenner/goreadme"
 	"golang.org/x/oauth2"
 )
 
